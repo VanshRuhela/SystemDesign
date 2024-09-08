@@ -36,3 +36,35 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore build directories
+build/
+dist/
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore Java compiled files
+*.class
+
+# Ignore JAR files
+*.jar
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore coverage reports
+coverage/
+*.lcov
+
+# Ignore environment variables
+.env

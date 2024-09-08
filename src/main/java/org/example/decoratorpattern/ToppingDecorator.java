@@ -1,2 +1,4 @@
-package org.example.decoratorpattern;public class ToppingDecorator {
+package org.example.decoratorpattern;
+
+public abstract class ToppingDecorator extends BasePizza {
 }

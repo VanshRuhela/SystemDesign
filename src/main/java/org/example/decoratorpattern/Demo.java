@@ -4,7 +4,7 @@ import org.example.decoratorpattern.BasePizzaTypes.FarmHousePizza;
 import org.example.decoratorpattern.PizzaToppingTypes.ExtraCheese;
 import org.example.decoratorpattern.PizzaToppingTypes.Mushroom;
 
-public class CreatePizza {
+public class Demo {
     public static void main(String[] args){
 
 
