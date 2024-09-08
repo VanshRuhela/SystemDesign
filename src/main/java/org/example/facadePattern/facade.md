@@ -18,3 +18,13 @@
 
 __Scenario : 2__
 ![image scenario 2](facade.png)
+
+__Scenario : 3__
+- facade interacting with facade 
+
+## Facade vs Proxy
+-
+
+##  Facade vs Adapter
+- Adapter is used to bring compability between the client & original interface.
+- but Facade is used to hide the complexity.
